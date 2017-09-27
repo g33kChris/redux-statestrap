@@ -1,0 +1,21 @@
+{
+  "name": "redux-statestrap",
+  "version": "0.0.1",
+  "description": "A utility function for bootstrapping a React component to store with a hard-coded state object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Prototyping"
+  ],
+  "author": "Chris Wallace (chris@g33kchris.net)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  }
+}
