@@ -1,6 +1,6 @@
 {
   "name": "@g33kchris/redux-statestrap",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "A utility function for bootstrapping a React component to store with a hard-coded state object.",
   "main": "dist/index.js",
   "scripts": {
